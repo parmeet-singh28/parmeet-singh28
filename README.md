@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m open to collaborate on exciting ideas.
 - 📫 How to reach me: 
 
-![Parmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmeet-singh28=&theme=dark&show_icons=true)
+![Parmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmeet-singh28&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parmeet-singh28)](https://github.com/parmeet-singh28)
